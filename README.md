@@ -1,4 +1,4 @@
-# Ideas
+# Ideas for the [Open Data Day Hackathon](http://zurich-r-user-group.github.io/hackathon.html)
 
 Collect your project ideas in the issues of this repository. 
 For each idea open a separate issue.
