@@ -1,9 +1,9 @@
 # Ideas for the [Open Data Day Hackathon](http://zurich-r-user-group.github.io/hackathon.html)
 
-Collect your project ideas in the issues of this repository. 
+Collect your project ideas in the [issues](https://github.com/OpenDataDayZurich2016/ideas/issues) of this repository. 
 For each idea open a separate issue.
 
-You can be creative here. This is just for brainstorming. You can propose as many projects as you like. You can comment on anyone's ideas (constructive comments). Please also add information on *what you need* (e.g. additional data sets).
+You can be creative here. This is just for **brainstorming**. You can propose as many projects as you like. You can comment on anyone's ideas (constructive comments). Please also add information on *what you need* (e.g. additional data sets).
 You do not have to make any decision on which project you want to work on now. 
 Teams will be formed on the 4th of March at the event.
 
